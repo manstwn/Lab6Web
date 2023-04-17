@@ -20,13 +20,13 @@ Berikut adalah program yang sudah saya buat.
 Menggunakan konsep 'Modularlisasi' dengan memecah bagian HTML menjadi 3 bagian yaitu header, home, dan footer. dan 'Routing' agar domain menjadi lebih singkat dari (/home.php) menjadi (/home) saja. Data yang berada di Tabel diambil menggunakan fungis gets() yang sudah ada pada Class Database
 </p>
 
-![Latihan API 2](screenshot/ss6.png)
+![Latihan API 2](screenshot/ss7.png)
 
 <p>
 Sama seperti Lab5Web tetapi struckturnya sudah diganti sesuai dengan praktikum.
 </p>
 
-![Latihan API 2](screenshot/ss7.png)
+![Latihan API 2](screenshot/ss6.png)
 
 ### Tambah Data
 ![Latihan API 2](screenshot/ss4.png)
