@@ -26,6 +26,8 @@ Menggunakan konsep 'Modularlisasi' dengan memecah bagian HTML menjadi 3 bagian y
 Sama seperti Lab5Web tetapi struckturnya sudah diganti sesuai dengan praktikum.
 </p>
 
+![Latihan API 2](screenshot/ss2.png)
+
 ### Tambah Data
 ![Latihan API 2](screenshot/ss4.png)
 <p>
