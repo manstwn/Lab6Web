@@ -8,10 +8,7 @@ Matkul : Pemograman Mobile 2
 ![Latihan API 2](screenshot/ss0.png)
 
 <p>
-Membuat program CRUD, yang sudah ditentukan struktur dan classnya.
-</p>
-<p>
-Berikut adalah program yang sudah saya buat.
+Membuat program CRUD, yang sudah ditentukan struktur dan classnya. Berikut adalah program yang sudah saya buat.
 </p>
 
 ![Latihan API 2](screenshot/ss3.png)
