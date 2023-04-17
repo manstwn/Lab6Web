@@ -44,6 +44,10 @@ Apabila di klik mengarah baris kode pada 'fungsi/ubah.php' cara mengirim data ke
 ![Latihan API 2](screenshot/ss3.png)
 <p>
 Apabila di klik mengarah baris kode pada 'fungsi/hapus.php' menggunkan metode $_GET untuk memilih data dan menghapus data dengan menggunakan fungsi delete() yang ada pada Class Database. dan kembali ke halaman /home
+</p>
   
+<p>
+Terima kasih
+</p>
 
 
