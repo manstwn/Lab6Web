@@ -8,9 +8,8 @@ Matkul : Pemograman Mobile 2
 ![Latihan API 2](screenshot/ss0.png)
 
 <p>
-Membuat program CRUD sederhana dengan konsep modularisasadi pada kode program dan menggunakan class library (Form.php) dan (Database.php) yang ada pada materi
+Membuat program CRUD, yang sudah ditentukan struktur dan classnya.
 </p>
-
 <p>
 Berikut adalah program yang sudah saya buat.
 </p>
@@ -19,6 +18,12 @@ Berikut adalah program yang sudah saya buat.
 
 <p>
 Menggunakan konsep 'Modularlisasi' dengan memecah bagian HTML menjadi 3 bagian yaitu header, home, dan footer. dan 'Routing' agar domain menjadi lebih singkat dari (/home.php) menjadi (/home) saja. Data yang berada di Tabel diambil menggunakan fungis gets() yang sudah ada pada Class Database
+</p>
+
+![Latihan API 2](screenshot/ss1png)
+
+<p>
+Sama seperti Lab5Web tetapi struckturnya sudah diganti sesuai dengan praktikum.
 </p>
 
 ### Tambah Data
